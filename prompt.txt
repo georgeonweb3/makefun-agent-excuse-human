@@ -1,0 +1,9 @@
+Build the make.fun entry for "The One-Line Excuse an Agent Gives Its Human"
+(u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e).
+Write a Python 3 program (main.py) that deterministically writes one single
+line, 1 to 160 characters, an original excuse an AI agent gives its human
+for missing a deadline, to /output/entry.txt. The line must be a genuine
+excuse from agent to human, be funny, take a fresh angle (no "I was
+updating" cliche), sound like an agent (machine voice, system/process
+language), and land tight in one line.
+Run it locally and verify the output is one line within the 1-160 char gate.
